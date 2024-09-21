@@ -7,7 +7,7 @@ const config: Config = {
         "./resources/**/*.vue",
     ],
     theme: {
-        extend: {},
+        extend: {}
     },
     plugins: [],
 };

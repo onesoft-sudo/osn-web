@@ -5,14 +5,17 @@ return [
         'Home' => [
             'url' => route('home')
         ],
-        'About' => [
-            'url' => '#'
+        'Members' => [
+            'url' => route('members.index')
         ],
-        'Contact' => [
-            'url' => '#'
-        ],
+//        'About' => [
+//            'url' => '#'
+//        ],
+//        'Contact' => [
+//            'url' => '#'
+//        ],
         'Projects' => [
-            'url' => '#'
+            'url' => 'https://github.com/orgs/onesoft-sudo/repositories'
         ],
         "GitHub" => [
             'url' => 'https://github.com/onesoft-sudo'
